@@ -1,0 +1,1 @@
+The Movie Recommendation System is a machine learning project that recommends movies to users based on their interests. It helps users discover movies similar to the ones they like by analyzing movie features and similarities.
